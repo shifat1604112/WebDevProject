@@ -1,0 +1,86 @@
+.H3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+.D{
+    color: #8f8f8f;
+}
+.navbar-brand-image{
+    display: inline-block;
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+    height: 80px;
+    width: 80px;
+}
+#title{
+    color:white;
+    background-color: #b31470;
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+    /*font-family: 'Sacramento', cursive;*/
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.container-flsuids{
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 1% 20% 13%;
+}
+.image{
+    /*transform: rotate(-45deg);*/
+    position: absolute;
+    height: 800x;
+    width: 400px;
+}
+.fix{
+    margin: 5% 3% 5% 0;
+}
+#features{
+    position: relative;
+    padding: 7% 15%;
+    background-color: #fff;
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+.custom{
+    color: #b31470;
+    margin-bottom: 1rem;
+}
+.custom:hover{
+    color: black;
+}
+
+#testimonials{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #b31470;
+    color: #fff;
+}
+
+.H2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.5rem;
+    line-height: 2;
+}
+.Testi{
+    width: 10%;
+    height: 8%;
+    border-radius: 80%;
+    margin: 20px;
+}
+#press{
+    background-color:  #b31470;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.indi{
+    margin-bottom: 10px;
+}

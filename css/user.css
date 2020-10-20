@@ -1,0 +1,180 @@
+.H3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+.D{
+    color: #8f8f8f;
+}
+.navbar-brand-image{
+    display: inline-block;
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+    height: 80px;
+    width: 80px;
+}
+#title{
+    color:white;
+    background-color: #d789d7;
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+    /*font-family: 'Sacramento', cursive;*/
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.search{
+    background-color: #d789d7;
+    margin-left: 10px;
+    border-radius: 50%;
+    border: none;
+    color: white;
+}
+.sss{
+    margin-left: 10px;
+}
+.cum{
+    color: #9d65c9;
+    border-radius: 20px;
+    border:none;
+    margin-left: 5px;
+    padding-left: 10px;
+}
+
+::placeholder {
+    margin-left: 5px; 
+    color: #d789d7;
+    opacity: .7;
+  }
+.clubname{
+    position: relative;
+    margin-top: 20px;
+    margin-left: 10%;
+}
+.image{
+    display: flex;
+    position: absolute;
+    top: -2px;
+    left:15%;
+}
+.img{
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 50px;
+    width: 50px;
+}
+.ui{
+    display: inline-block;
+    position: absolute;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 40px;
+    height: 90%;
+    width: 94%;
+    background: linear-gradient(to bottom, #9d65c9 40%,#d789d7 100%); 
+    color: tomato;
+}
+
+.fixture{
+    background: linear-gradient(to bottom,#9d65c9 , #fff 20%, #5d54a4 100%);
+    display: flex;
+    position: absolute;
+    width: 30%;
+    height: 90%;
+    left: 30px;
+    top: 30px;
+}
+.fix{
+    color: #2a3d66;
+    font-size: 20px;
+    font-family: 'Pacifico', cursive;
+    position: absolute;
+    left: 40%;
+    top: 30px;
+}
+.usersel{
+    color: #2a3d66;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 32%;
+    top: 80px;
+}
+.block{
+    margin: 20px;
+}
+.uim{
+    color: white;
+}
+.H2{
+    font-weight: bold;
+    padding-left: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 2;
+}
+
+.Testi{
+    width: 50px;
+    height: 50px;
+    border-radius: 80%;
+    margin: 20px;
+}
+
+.player{
+    margin-top: 50px;
+    display: inline-block;
+    border-style: dotted;
+    border-color: white;
+    border-radius: 50px;
+    position:absolute;
+    height: 350px;
+    width: 400;
+    top: 50px;
+    left: 65%;
+}
+.playerc{
+    margin-top: 4px;
+    height: 280px;
+    width: 300px;
+}
+.player:hover{
+    opacity: .5;
+}
+
+.upcoming{
+    color: black;
+    position: absolute;
+    top: 100px;
+    margin: 10px;
+    margin-left: 20px;
+    padding-left: 25%;
+}
+.row{
+    padding-left: 8px;
+    width: 150px;
+    border: solid;
+    border-radius: 30px;
+    border-width: 1px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.row:hover{
+    color: white;
+    background: linear-gradient(to left,#00005c 20%, #d9455f 100%);
+}
+.blabla{
+    padding-top: 3px;
+    padding-left: 30px;
+}
+.something{
+    position:absolute;
+    border-top-right-radius: 0px;
+    border-top-left-radius: 0px;
+    background-color: red;
+    border-color: red;
+}
